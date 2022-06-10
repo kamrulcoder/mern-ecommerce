@@ -1,10 +1,24 @@
-# ProShop eCommerce Platform
+# Mern Shop Ecommerce  FullStack  Website 
 
-> eCommerce platform built with the MERN stack & Redux.
+## About The Project
 
+![Mern Ecommerse Website](./uploads/Screenshot.png)
 
+[Demo URL](https://mern-ecommerce22.herokuapp.com/)
 
-![screenshot](./uploads/Screenshot.png)
+### Built With
+
+- [react-bootstrap](https://react-bootstrap.github.io/)
+- [paypal](https://developer.paypal.com/)
+- [React.js](https://reactjs.org/)
+- [redux](https://redux.js.org/)
+- [react-router-bootstrap](https://www.npmjs.com/package/react-router-bootstrap)
+- [react-router-dom](https://reactrouter.com/)
+- [express](https://expressjs.com/)
+- [mongoose](https://mongoosejs.com/)
+- [multer](https://www.npmjs.com/package/multer)
+- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+
 
 ## Features
 
@@ -21,3 +35,7 @@
 - Checkout process (shipping, payment method, etc)
 - PayPal / credit card integration
 - Database seeder (products & users)
+
+Thanks to [ILW Yennefer](https://www.youtube.com/channel/UC5XDHSUoBC11Kj-iIpx7QkA) 🙏
+
+
