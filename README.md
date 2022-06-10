@@ -36,6 +36,5 @@
 - PayPal / credit card integration
 - Database seeder (products & users)
 
-Thanks to [ILW Yennefer](https://www.youtube.com/channel/UC5XDHSUoBC11Kj-iIpx7QkA) 🙏
 
 
